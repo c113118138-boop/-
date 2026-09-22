@@ -36,7 +36,7 @@
 ### 我學過的 Python 程式碼
 
 ```python
-name = "旭"
+name = "陳品旭"
 skill = "Python"
 
 print("Hello, Markdown!")
